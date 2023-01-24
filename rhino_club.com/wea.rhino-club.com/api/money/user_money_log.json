@@ -1,0 +1,130 @@
+{
+  "code": 1,
+  "msg": "success",
+  "time": "1674567738",
+  "data": {
+    "list": [
+      {
+        "id": 26290016,
+        "user_id": 41999,
+        "money": "20.00",
+        "before": "361.36",
+        "after": "341.36",
+        "type": 1,
+        "link_id": 6105001,
+        "memo": "下单支出：20",
+        "createtime": 1674566684,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26288461,
+        "user_id": 41999,
+        "money": "42.75",
+        "before": "318.61",
+        "after": "361.36",
+        "type": 3,
+        "link_id": 6104214,
+        "memo": "压中获得：42.75",
+        "createtime": 1674566646,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26286417,
+        "user_id": 41999,
+        "money": "30.00",
+        "before": "348.61",
+        "after": "318.61",
+        "type": 1,
+        "link_id": 6104214,
+        "memo": "下单支出：30",
+        "createtime": 1674566568,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26279830,
+        "user_id": 41999,
+        "money": "10.00",
+        "before": "358.61",
+        "after": "348.61",
+        "type": 1,
+        "link_id": 6102727,
+        "memo": "下单支出：10",
+        "createtime": 1674566393,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26279746,
+        "user_id": 41999,
+        "money": "10.00",
+        "before": "368.61",
+        "after": "358.61",
+        "type": 1,
+        "link_id": 6102706,
+        "memo": "下单支出：10",
+        "createtime": 1674566391,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26279590,
+        "user_id": 41999,
+        "money": "10.00",
+        "before": "378.61",
+        "after": "368.61",
+        "type": 1,
+        "link_id": 6102667,
+        "memo": "下单支出：10",
+        "createtime": 1674566387,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26279517,
+        "user_id": 41999,
+        "money": "10.00",
+        "before": "388.61",
+        "after": "378.61",
+        "type": 1,
+        "link_id": 6102648,
+        "memo": "下单支出：10",
+        "createtime": 1674566385,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26278818,
+        "user_id": 41999,
+        "money": "10.00",
+        "before": "398.61",
+        "after": "388.61",
+        "type": 1,
+        "link_id": 6102471,
+        "memo": "下单支出：10",
+        "createtime": 1674566368,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26278677,
+        "user_id": 41999,
+        "money": "10.00",
+        "before": "408.61",
+        "after": "398.61",
+        "type": 1,
+        "link_id": 6102436,
+        "memo": "下单支出：10",
+        "createtime": 1674566365,
+        "ly_user_id": 0
+      },
+      {
+        "id": 26278468,
+        "user_id": 41999,
+        "money": "10.00",
+        "before": "418.61",
+        "after": "408.61",
+        "type": 1,
+        "link_id": 6102383,
+        "memo": "下单支出：10",
+        "createtime": 1674566362,
+        "ly_user_id": 0
+      }
+    ],
+    "count": 965
+  }
+}

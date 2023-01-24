@@ -1,0 +1,130 @@
+{
+  "code": 1,
+  "msg": "success",
+  "time": "1674567744",
+  "data": {
+    "list": [
+      {
+        "id": 175584,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "384",
+        "price": 30137,
+        "unit": 7,
+        "color": "green",
+        "begintime": 1674567540,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175583,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "383",
+        "price": 30119,
+        "unit": 9,
+        "color": "green",
+        "begintime": 1674567360,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175582,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "382",
+        "price": 30148,
+        "unit": 8,
+        "color": "red",
+        "begintime": 1674567180,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175581,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "381",
+        "price": 30137,
+        "unit": 7,
+        "color": "green",
+        "begintime": 1674567000,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175580,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "380",
+        "price": 30167,
+        "unit": 7,
+        "color": "green",
+        "begintime": 1674566820,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175579,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "379",
+        "price": 30174,
+        "unit": 4,
+        "color": "red",
+        "begintime": 1674566640,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175578,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "378",
+        "price": 30166,
+        "unit": 6,
+        "color": "red",
+        "begintime": 1674566460,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175577,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "377",
+        "price": 30182,
+        "unit": 2,
+        "color": "red",
+        "begintime": 1674566280,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175576,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "376",
+        "price": 30203,
+        "unit": 3,
+        "color": "green",
+        "begintime": 1674566100,
+        "is_show": 1,
+        "is_queue": 1
+      },
+      {
+        "id": 175575,
+        "project_id": 2,
+        "date": 20230124,
+        "sn": "375",
+        "price": 30197,
+        "unit": 7,
+        "color": "green",
+        "begintime": 1674565920,
+        "is_show": 1,
+        "is_queue": 1
+      }
+    ],
+    "count": 1824
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "code": 1,
+  "msg": "success",
+  "time": "1674567694",
+  "data": {
+    "list": [
+      {
+        "id": 18977,
+        "actual_name": "Prashant Singh",
+        "bank_account": "060801000021077"
+      },
+      { "id": 19674, "actual_name": "Sarita", "bank_account": "55550110956008" }
+    ],
+    "count": 2
+  }
+}

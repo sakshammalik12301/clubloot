@@ -1,0 +1,22 @@
+{
+  "code": 1,
+  "msg": "success",
+  "time": "1674567663",
+  "data": {
+    "list": [
+      {
+        "id": 64576,
+        "pid": 62714,
+        "nickname": "917599224506",
+        "mobile": "917599224506",
+        "createtime": 1674094661,
+        "sc_tj": "0",
+        "fl_tj": "0.00",
+        "yingkui": 0,
+        "sc_jl": 0,
+        "fl_jl": 0
+      }
+    ],
+    "count": 1
+  }
+}

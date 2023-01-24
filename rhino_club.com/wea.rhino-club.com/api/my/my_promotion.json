@@ -1,0 +1,32 @@
+{
+  "code": 1,
+  "msg": "success",
+  "time": "1674567663",
+  "data": {
+    "code": "DBDA920D",
+    "realmname": "https://rhino-club.com/",
+    "bonus": 0.15,
+    "total_people": 2,
+    "contribution": 10,
+    "xiaji": {
+      "yiji": {
+        "total_people": 1,
+        "contribution": 10,
+        "bonus": 0,
+        "scale": "0.6"
+      },
+      "erji": {
+        "total_people": 1,
+        "contribution": 0,
+        "bonus": 0,
+        "scale": "0.4"
+      },
+      "sanji": {
+        "total_people": 0,
+        "contribution": 0,
+        "bonus": 0,
+        "scale": "0.1"
+      }
+    }
+  }
+}

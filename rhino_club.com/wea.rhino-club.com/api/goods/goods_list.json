@@ -1,0 +1,122 @@
+{
+  "code": 1,
+  "msg": "success",
+  "time": "1674567750",
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "image_array": "/uploads/images/51iEBQzCL5L._UL1500_.jpg,/uploads/images/61Jbfg9PtkL._UL1500_.jpg,/uploads/images/61Wk6JmMvaL._UL1500_.jpg",
+        "title": "Joyalukkas 18k (750) Rose Gold and Solitaire Pendant for Girls",
+        "price": "38576.00",
+        "cover_image": "/uploads/images/51iEBQzCL5L._UL1500_.jpg"
+      },
+      {
+        "id": 2,
+        "image_array": "/uploads/images/71JvL64Y3cL._UY695_.jpg,/uploads/images/71rXzGEk8uL._UY695_.jpg",
+        "title": "Ratnavali Jewels American Diamond Traditional Fashion Jewellery Green Necklace Pendant Set with Earring for Women/Girls RV2916G",
+        "price": "2899.00",
+        "cover_image": "/uploads/images/71JvL64Y3cL._UY695_.jpg"
+      },
+      {
+        "id": 3,
+        "image_array": "/uploads/images/71YWzTc2omL._UY695_.jpg,/uploads/images/715ltZ1SJtL._UY695_.jpg",
+        "title": "Swasti Jewels Heart Shape Fashion Jewellery Set Pendant Earrings for Women",
+        "price": "4559.00",
+        "cover_image": "/uploads/images/71YWzTc2omL._UY695_.jpg"
+      },
+      {
+        "id": 4,
+        "image_array": "/uploads/images/4.jpg",
+        "title": "Om Jewells Rhodium Plated Blue Crystal Jewellery Combo of Designer Drop Pendant Set with Adjustable Bangle Kada and Adjustable Solitaire Finger Ring for Girls and Women CO1000209",
+        "price": "1599.00",
+        "cover_image": "/uploads/images/4.jpg"
+      },
+      {
+        "id": 5,
+        "image_array": "/uploads/images/5.jpg,/uploads/images/5_1.jpg",
+        "title": "Sukkhi Gleaming Pearl Gold Plated Wedding Jewellery Kundan Peacock Meenakari Multi-String Necklace Set for Women (2191NGLDPP1560)",
+        "price": "1745.00",
+        "cover_image": "/uploads/images/5.jpg"
+      },
+      {
+        "id": 6,
+        "image_array": "/uploads/images/6.jpg,/uploads/images/6_1.jpg",
+        "title": "Ananth Jewels 925 Sterling Silver BIS Hallmarked Heart Bracelet for Women",
+        "price": "9000.00",
+        "cover_image": "/uploads/images/6.jpg"
+      },
+      {
+        "id": 7,
+        "image_array": "/uploads/images/7.jpg",
+        "title": "Handicraft Kottage ® 1gm 22Ct Gold Plated Pendant and Chain for Men/Women/Girls",
+        "price": "999.00",
+        "cover_image": "/uploads/images/7.jpg"
+      },
+      {
+        "id": 8,
+        "image_array": "/uploads/images/8.jpg,/uploads/images/8_1.jpg",
+        "title": "Mansiyaorange Combo of Two Party One Gram Gold Forming Long Haram and Choker Multi Color Jewellery Necklace/Juelry/jwelry Set Jewellery for Women",
+        "price": "3199.00",
+        "cover_image": "/uploads/images/8.jpg"
+      },
+      {
+        "id": 9,
+        "image_array": "/uploads/images/9.jpg",
+        "title": "Young & Forever Fashion Jewellery Elite Rose Gold Plated Geometric Shape Stud Earring Pendant Set for Women Princess Length Delicate Chain Cubic Zirconia Necklace Set for Girls Jewelry",
+        "price": "4450.00",
+        "cover_image": "/uploads/images/9.jpg"
+      },
+      {
+        "id": 10,
+        "image_array": "/uploads/images/10.jpg,/uploads/images/10_1.jpg",
+        "title": "Ratnavali Jewels American Diamond Cz Gold Plated Necklace Set Tennis Necklace Single Line Solitaire Set With Chain & Earring For Women",
+        "price": "4000.00",
+        "cover_image": "/uploads/images/10.jpg"
+      },
+      {
+        "id": 11,
+        "image_array": "/uploads/images/11.jpg,/uploads/images/11_1.jpg,/uploads/images/11_2.jpg",
+        "title": "chandrika pearls gems & jewellers Sania Mirza Style Without Piercing Clip on Pressing Type Nose Ring for Women & Girls",
+        "price": "278.00",
+        "cover_image": "/uploads/images/11.jpg"
+      },
+      {
+        "id": 12,
+        "image_array": "/uploads/images/12.jpg,/uploads/images/12_1.jpg",
+        "title": "Chandrika Pearls Gems & Jewellers Sterling Silver Pendant Earring with Swarovski Crystal for Girls",
+        "price": "1060.00",
+        "cover_image": "/uploads/images/12.jpg"
+      },
+      {
+        "id": 13,
+        "image_array": "/uploads/images/13.jpg,/uploads/images/13_1.jpg",
+        "title": "Chandrika Pearls Gems & Jewellers 92.5 Sterling Silver Real Diamond Valentine Crown King Queen Ring for Girls & Women",
+        "price": "1920.00",
+        "cover_image": "/uploads/images/13.jpg"
+      },
+      {
+        "id": 14,
+        "image_array": "/uploads/images/14.jpg",
+        "title": "Chandrika Pearls Gems & Jewellers 925 Pure Sterling Silver Letters Initial Pendant with Gold Polish (R)",
+        "price": "476.00",
+        "cover_image": "/uploads/images/14.jpg"
+      },
+      {
+        "id": 15,
+        "image_array": "/uploads/images/15.jpg,/uploads/images/15_1.jpg",
+        "title": "Chandrika Pearls Gems & Jewellers Dhanteras Brass Hindu Puja Camphor Burner Lamp Panch Aarti - 5 Face For Puja",
+        "price": "1880.00",
+        "cover_image": "/uploads/images/15.jpg"
+      },
+      {
+        "id": 16,
+        "image_array": "/uploads/images/16.jpg,/uploads/images/16_1.jpg",
+        "title": "Jewels Galaxy Designer American Diamond Gold Plated Bangles for Women/Girls",
+        "price": "1999.00",
+        "cover_image": "/uploads/images/16.jpg"
+      }
+    ],
+    "count": 16
+  }
+}

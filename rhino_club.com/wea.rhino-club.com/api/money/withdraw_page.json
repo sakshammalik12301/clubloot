@@ -1,0 +1,22 @@
+{
+  "code": 1,
+  "msg": "success",
+  "time": "1674567733",
+  "data": {
+    "user_money": "341.36",
+    "bank_card": [
+      {
+        "id": 18977,
+        "user_id": 41999,
+        "bank_name": "Indian Overseas Bank",
+        "bank_account": "060*********077"
+      },
+      {
+        "id": 19674,
+        "user_id": 41999,
+        "bank_name": "Federal Bank",
+        "bank_account": "555********008"
+      }
+    ]
+  }
+}
